@@ -1,5 +1,5 @@
 const generateRandomPassword = () => {
-    return Array(15) //number of characters
+    return Array(15) //password length
       .fill(
         "0123456789abcdefghijklmnopqrstuvwxyz!@#$%^&*()ABCDEFGHIJKLMNOPQRSTUVWXYZ"
       )
