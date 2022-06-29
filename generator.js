@@ -9,3 +9,5 @@ const generateRandomPassword = () => {
       })
       .join("");
   };
+
+console.log(generateRandomPassword()) //'XX)PUMqA1mpDtZQ'
